@@ -67,7 +67,7 @@ It is a command-line application, it creates, updates and deletes database recor
 
 [Screenshot of website](https://github.com/Laura-Kam/Organise-my-ShopStock/issues/1#issue-1393870325)
 
-## bugs
+## Bugs
 
 - Delete function would not work on categories. Resolved by re-seeding data.
 - Connection failed to work. Resolved.
@@ -82,9 +82,9 @@ It is a command-line application, it creates, updates and deletes database recor
 
 # Link to video
 
-- [Organise-my-ShopStock Video Google Drive](.....)
+- [Organise-my-ShopStock Video Google Drive](https://drive.google.com/file/d/1_rwMTO6LAPSpBq4diffA0-2MI05qjncW/view)
 
-- [Organise-my-ShopStock Screencastify](....)
+- [Organise-my-ShopStock Screencastify](https://watch.screencastify.com/v/OA1SjIsSOTd4Mn7v8I2b)
 
 ## How to contribute
 
